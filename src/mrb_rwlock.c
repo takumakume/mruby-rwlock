@@ -1,10 +1,7 @@
 /*
-** mrb_rwlock.c - RWLock class
-**
-** Copyright (c) takumakume 2018
-**
-** See Copyright Notice in LICENSE
-*/
+ * Based on https://github.com/matsumotory/mruby-mutex,
+ * Please see https://github.com/matsumotory/mruby-mutex/blob/master/LICENSE.
+ */
 
 #include "mruby.h"
 #include "mruby/data.h"
